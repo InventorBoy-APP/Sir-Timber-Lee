@@ -79,7 +79,7 @@ font-family: 'Hanalei', cursive;
     color:aqua;
     
 }
-.links{
+.link{
     float:left;
     color:aqua;
     padding-top:5px;
@@ -92,6 +92,6 @@ font-family: 'Hanalei', cursive;
     
     
 }
-.links:hover{
+.link:hover{
     background-color:coral;
 }
